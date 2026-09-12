@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Elétrica Total | Materiais Elétricos</title>
+<link rel="stylesheet" href="./css/style.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@phosphor-icons/web@2.1.1/src/regular/style.css">
+<script src="./js/banner.js" defer></script>
+<script src="./js/app.js" defer></script>
+</head>
+<body>
+<header class="site-header">
+  <div class="header-inner">
+    <a class="brand" href="index.html" aria-label="Elétrica Total">
+      <img src="./img/logo_eletrica.png" alt="Elétrica Total">
+      <span><strong>ELÉTRICA</strong><small>TOTAL</small></span>
+    </a>
+    <div class="header-actions">
+      <label class="search"><i class="ph ph-magnifying-glass"></i><input id="busca" type="search" placeholder="Pesquisar produtos..."></label>
+      <select id="marca"><option value="">Todas as marcas</option></select>
+      <select id="ordenar"><option value="">Ordenar</option><option value="nome">Nome A–Z</option><option value="menor">Menor preço</option><option value="maior">Maior preço</option></select>
+    </div>
+  </div>
+</header>
+
+<main>
+  <section class="hero-carousel" aria-label="Destaques Elétrica Total">
+    <div class="hero-stage" id="heroStage">
+      <article class="hero-slide hero-slide--image is-active">
+        <img src="./img/banner-profissional.png" alt="Elétrica Total - materiais elétricos para seu projeto">
+      </article>
+
+      <article class="hero-slide hero-slide--materials">
+        <div class="slide-copy">
+          <span class="slide-kicker">LINHA COMPLETA</span>
+          <h2>Materiais para<br><strong>cada etapa do seu projeto.</strong></h2>
+          <p>Cabos, disjuntores, tomadas, iluminação, ferramentas e muito mais.</p>
+          <a href="#produtos" class="slide-button">VER MATERIAIS <i class="ph ph-arrow-right"></i></a>
+        </div>
+        <div class="floating-products" id="floatingProducts"></div>
+      </article>
+
+      <article class="hero-slide hero-slide--quality">
+        <div class="quality-copy">
+          <span class="slide-kicker">ELÉTRICA TOTAL</span>
+          <h2>Seu projeto.<br><strong>Nossa energia.</strong></h2>
+          <p>Produtos selecionados, marcas confiáveis e atendimento especializado.</p>
+          <div class="quality-pills"><span><i class="ph ph-shield-check"></i> Compra segura</span><span><i class="ph ph-truck"></i> Entrega rápida</span><span><i class="ph ph-headset"></i> Suporte especializado</span></div>
+        </div>
+        <div class="quality-orbit"><span>⚡</span><small>QUALIDADE<br>E CONFIANÇA</small></div>
+      </article>
+    </div>
+    <div class="hero-controls">
+      <button class="hero-arrow" id="heroPrev" aria-label="Banner anterior"><i class="ph ph-arrow-left"></i></button>
+      <div class="hero-dots" id="heroDots" aria-label="Selecionar banner"></div>
+      <button class="hero-arrow" id="heroNext" aria-label="Próximo banner"><i class="ph ph-arrow-right"></i></button>
+    </div>
+  </section>
+
+  <section class="trust-strip">
+    <div><i class="ph ph-shield-check"></i><strong>Compra segura</strong><span>Seus dados protegidos</span></div>
+    <div><i class="ph ph-truck"></i><strong>Entrega rápida</strong><span>Para todo o Brasil</span></div>
+    <div><i class="ph ph-seal-check"></i><strong>Marcas confiáveis</strong><span>Produtos selecionados</span></div>
+    <div><i class="ph ph-headset"></i><strong>Atendimento</strong><span>Suporte especializado</span></div>
+  </section>
+
+  <section class="catalogo-topo">
+    <div><span class="eyebrow">NOSSO CATÁLOGO</span><h1>Materiais elétricos</h1><p>Encontre produtos de qualidade para sua casa, comércio ou projeto.</p></div>
+    <span id="contador">Carregando produtos...</span>
+  </section>
+
+  <section id="produtos" aria-live="polite"></section>
+  <nav id="paginacao" aria-label="Paginação"></nav>
+</main>
+
+<footer>
+  <div class="footer-main">
+    <a class="footer-brand" href="index.html"><img src="./img/logo_eletrica.png" alt="Elétrica Total"><span><strong>ELÉTRICA</strong><small>TOTAL</small></span></a>
+    <div class="footer-beneficios">
+      <div class="beneficio"><i class="ph ph-truck"></i><div><strong>Entrega rápida</strong><span>Para todo o Brasil</span></div></div>
+      <div class="beneficio"><i class="ph ph-shield-check"></i><div><strong>Compra segura</strong><span>Seus dados protegidos</span></div></div>
+      <div class="beneficio"><i class="ph ph-headset"></i><div><strong>Atendimento</strong><span>Especializado</span></div></div>
+    </div>
+    <div class="footer-info"><div class="footer-links"><a href="#">Termos de Uso</a><a href="#">Política de Privacidade</a></div><p>© 2026 Elétrica Total. Todos os direitos reservados.</p></div>
+  </div>
+</footer>
+</body>
+</html>

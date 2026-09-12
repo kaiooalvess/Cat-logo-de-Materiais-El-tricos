@@ -1,0 +1,362 @@
+[
+    {
+        "id": 1,
+        "nome": "Disjuntor Bipolar 40A",
+        "marca": "Steck",
+        "descricao": "Proteção para circuitos elétricos residenciais e comerciais.",
+        "preco": 45.90,
+        "imagem": "disjuntor 40A.png"
+    },
+    {
+        "id": 2,
+        "nome": "Disjuntor Unipolar 20A",
+        "marca": "Steck",
+        "descricao": "Proteção para circuitos de iluminação.",
+        "preco": 18.50,
+        "imagem": "disjuntor unipolar.png"
+    },
+    {
+        "id": 3,
+        "nome": "Tomada 2P+T 20A",
+        "marca": "Tramontina",
+        "descricao": "Tomada padrão brasileiro com aterramento.",
+        "preco": 12.90,
+        "imagem": "Tomada 20A.png"
+    },
+    {
+        "id": 4,
+        "nome": "Interruptor Simples",
+        "marca": "Tramontina",
+        "descricao": "Controle básico de iluminação.",
+        "preco": 8.90,
+        "imagem": "Interruptor simples .png"
+    },
+    {
+        "id": 5,
+        "nome": "Interruptor Paralelo",
+        "marca": "Tramontina",
+        "descricao": "Controle de iluminação em dois pontos.",
+        "preco": 14.90,
+        "imagem": "interruptor paralelo.png"
+    },
+    {
+        "id": 6,
+        "nome": "Cabo Flexível 2,5mm 100m",
+        "marca": "Sil",
+        "descricao": "Cabo elétrico para instalações residenciais.",
+        "preco": 289.90,
+        "imagem": "Cabo Flexível 2,5mm 100.png"
+    },
+    {
+        "id": 7,
+        "nome": "Cabo Flexível 4mm 100m",
+        "marca": "Corfio",
+        "descricao": "Cabo para maior carga elétrica.",
+        "preco": 459.90,
+        "imagem": "Cabo Flexível 4mm 100m.png"
+    },
+    {
+        "id": 8,
+        "nome": "Fita Isolante 20m",
+        "marca": "3M",
+        "descricao": "Isolamento elétrico de fios.",
+        "preco": 9.90,
+        "imagem": "Fita Isolante 20m.png"
+    },
+    {
+        "id": 9,
+        "nome": "Alicate Universal 8",
+        "marca": "Vonder",
+        "descricao": "Ferramenta essencial do eletricista.",
+        "preco": 39.90,
+        "imagem": "Alicate Universal 8.png"
+    },
+    {
+        "id": 10,
+        "nome": "Alicate de Corte",
+        "marca": "Vonder",
+        "descricao": "Corte de fios e cabos.",
+        "preco": 34.90,
+        "imagem": "Alicate de Corte.png"
+    },
+    {
+        "id": 11,
+        "nome": "Chave Teste de Tensão",
+        "marca": "Tramontina",
+        "descricao": "Verificação de energia elétrica.",
+        "preco": 7.90,
+        "imagem": "Chave Teste de Tensão.png"
+    },
+    {
+        "id": 12,
+        "nome": "Multímetro Digital",
+        "marca": "Minipa",
+        "descricao": "Medições elétricas.",
+        "preco": 89.90,
+        "imagem": "Multímetro Digital.png"
+    },
+    {
+        "id": 13,
+        "nome": "Quadro de Distribuição 12 Disjuntores",
+        "marca": "Tigre",
+        "descricao": "Organização elétrica residencial.",
+        "preco": 79.90,
+        "imagem": "Quadro de Distribuição 12 Disjuntores.png"
+    },
+    {
+        "id": 14,
+        "nome": "Canaleta PVC 20x10",
+        "marca": "Ilumi",
+        "descricao": "Organização de cabos.",
+        "preco": 11.90,
+        "imagem": "Canaleta PVC 20x10.png"
+    },
+    {
+        "id": 15,
+        "nome": "Eletroduto Corrugado 25mm",
+        "marca": "Tigre",
+        "descricao": "Proteção de fios elétricos.",
+        "preco": 89.90,
+        "imagem": "Eletroduto Corrugado 25mm.png"
+    },
+    {
+        "id": 16,
+        "nome": "Lâmpada LED 9W",
+        "marca": "Philips",
+        "descricao": "Economia de energia.",
+        "preco": 7.50,
+        "imagem": "Lâmpada LED 9W.png"
+    },
+    {
+        "id": 17,
+        "nome": "Lâmpada LED 15W",
+        "marca": "Osram",
+        "descricao": "Iluminação eficiente.",
+        "preco": 12.90,
+        "imagem": "Lâmpada LED 15W.png"
+    },
+    {
+        "id": 18,
+        "nome": "Refletor LED 100W",
+        "marca": "Avant",
+        "descricao": "Iluminação externa.",
+        "preco": 69.90,
+        "imagem": "Refletor LED 100W.png"
+    },
+    {
+        "id": 19,
+        "nome": "Sensor de Presença",
+        "marca": "Exatron",
+        "descricao": "Acionamento automático.",
+        "preco": 49.90,
+        "imagem": "Sensor de Presença.png"
+    },
+    {
+        "id": 20,
+        "nome": "Campainha Eletrônica",
+        "marca": "Intelbras",
+        "descricao": "Campainha residencial.",
+        "preco": 35.90,
+        "imagem": "Campainha Eletrônica.png"
+    },
+    {
+        "id": 21,
+        "nome": "Contator 25A",
+        "marca": "WEG",
+        "descricao": "Controle de motores elétricos.",
+        "preco": 119.90,
+        "imagem": "Contator 25A.png"
+    },
+    {
+        "id": 22,
+        "nome": "Relé Térmico",
+        "marca": "WEG",
+        "descricao": "Proteção contra sobrecarga.",
+        "preco": 95.90,
+        "imagem": "Relé Térmico.webp"
+    },
+    {
+        "id": 23,
+        "nome": "Barramento Neutro",
+        "marca": "Steck",
+        "descricao": "Distribuição elétrica.",
+        "preco": 19.90,
+        "imagem": "Barramento Neutro.png"
+    },
+    {
+        "id": 24,
+        "nome": "Barramento Terra",
+        "marca": "Steck",
+        "descricao": "Aterramento seguro.",
+        "preco": 19.90,
+        "imagem": "Barramento Terra.webp"
+    },
+    {
+        "id": 25,
+        "nome": "Conector Wago 2 Vias",
+        "marca": "Wago",
+        "descricao": "Conexão rápida.",
+        "preco": 3.50,
+        "imagem": "Conector Wago 2 Via.png"
+    },
+    {
+        "id": 26,
+        "nome": "Conector Wago 3 Vias",
+        "marca": "Wago",
+        "descricao": "Conexão segura.",
+        "preco": 4.90,
+        "imagem": "Conector Wago 3 Vias.png"
+    },
+    {
+        "id": 27,
+        "nome": "Caixa de Luz 4x2",
+        "marca": "Tigre",
+        "descricao": "Instalação elétrica básica.",
+        "preco": 2.90,
+        "imagem": "Caixa de Luz 4x2.png"
+    },
+    {
+        "id": 28,
+        "nome": "Caixa de Passagem",
+        "marca": "Tigre",
+        "descricao": "Distribuição de cabos.",
+        "preco": 15.90,
+        "imagem": "Caixa de Passagem.png"
+    },
+    {
+        "id": 29,
+        "nome": "Extensão Elétrica 5m",
+        "marca": "Force Line",
+        "descricao": "Extensão prática.",
+        "preco": 24.90,
+        "imagem": "Extensão Elétrica 5m.png"
+    },
+    {
+        "id": 30,
+        "nome": "Extensão Elétrica 10m",
+        "marca": "Force Line",
+        "descricao": "Maior alcance.",
+        "preco": 39.90,
+        "imagem": "Extensão Elétrica 10m.png"
+    },
+    {
+        "id": 31,
+        "nome": "Protetor DPS",
+        "marca": "Clamper",
+        "descricao": "Proteção contra surtos elétricos.",
+        "preco": 59.90,
+        "imagem": "Protetor DPS.png"
+    },
+    {
+        "id": 32,
+        "nome": "Dispositivo DR 40A",
+        "marca": "Schneider",
+        "descricao": "Proteção contra choques elétricos.",
+        "preco": 129.90,
+        "imagem": "Dispositivo DR 40A.png"
+    },
+    {
+        "id": 33,
+        "nome": "Fusível Cartucho 20A",
+        "marca": "NH",
+        "descricao": "Proteção de circuitos.",
+        "preco": 8.90,
+        "imagem": "Fusível Cartucho 20A.png"
+    },
+    {
+        "id": 34,
+        "nome": "Chave Boia Automática",
+        "marca": "Margirius",
+        "descricao": "Controle de nível de água.",
+        "preco": 49.90,
+        "imagem": "Chave Boia Automátic.png"
+    },
+    {
+        "id": 35,
+        "nome": "Ventilador de Teto",
+        "marca": "Ventisol",
+        "descricao": "Ventilação ambiente.",
+        "preco": 249.90,
+        "imagem": "Ventilador de Teto.png"
+    },
+    {
+        "id": 36,
+        "nome": "Chuveiro Elétrico 6800W",
+        "marca": "Lorenzetti",
+        "descricao": "Banho quente potente.",
+        "preco": 159.90,
+        "imagem": "Chuveiro Elétrico 6800W.png"
+    },
+    {
+        "id": 37,
+        "nome": "Tomada Inteligente Wi-Fi",
+        "marca": "Intelbras",
+        "descricao": "Controle via aplicativo.",
+        "preco": 69.90,
+        "imagem": "Tomada Inteligente Wi-Fi.png"
+    },
+    {
+        "id": 38,
+        "nome": "Luminária LED Sobrepor",
+        "marca": "Avant",
+        "descricao": "Iluminação moderna.",
+        "preco": 34.90,
+        "imagem": "luminaria_de_led-removebg-preview.png"
+    },
+    {
+        "id": 39,
+        "nome": "Pendente LED Decorativo",
+        "marca": "Taschibra",
+        "descricao": "Decoração luminosa.",
+        "preco": 149.90,
+        "imagem": "Pendente LED Decorativo.png"
+    },
+    {
+        "id": 40,
+        "nome": "Transformador 220V/110V",
+        "marca": "Fiolux",
+        "descricao": "Conversão de tensão.",
+        "preco": 189.90,
+        "imagem": "transfomador.png"
+    },
+    {
+        "id": 41,
+        "nome": "Fonte Chaveada 12V 10A",
+        "marca": "Hayonik",
+        "descricao": "Alimentação eletrônica.",
+        "preco": 69.90,
+        "imagem": "Fonte Chaveada 12V 10A.png"
+    },
+    {
+        "id": 42,
+        "nome": "Abraçadeira Nylon 200mm",
+        "marca": "Hellermann",
+        "descricao": "Organização de cabos.",
+        "preco": 12.90,
+        "imagem": "Abraçadeira Nylon 200mm.png"
+    },
+    {
+        "id": 43,
+        "nome": "Detector de Tensão",
+        "marca": "Minipa",
+        "descricao": "Teste seguro de energia.",
+        "preco": 89.90,
+        "imagem": "Detector de Tensão.png"
+    },
+    {
+        "id": 44,
+        "nome": "Escada Fibra 6 Degraus",
+        "marca": "Morf",
+        "descricao": "Trabalho em altura.",
+        "preco": 399.90,
+        "imagem": "Escada Fibra 6 Degraus.png"
+    },
+    {
+        "id": 45,
+        "nome": "Bolsa para Ferramentas",
+        "marca": "Vonder",
+        "descricao": "Transporte de ferramentas.",
+        "preco": 79.90,
+        "imagem": "Bolsa para Ferramentas.png"
+    }
+]
